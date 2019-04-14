@@ -1,0 +1,74 @@
+/*
+h1 {
+	color: orange;
+	font-size: 16px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+
+.contact-list__contact {
+	position: relative;
+	overflow: hidden;
+}
+
+.contact-list__contact:hover form{
+	left: 0;
+	position: relative;
+	opacity: 1;
+}
+
+.contact-list__contact:hover .danger{
+	right: 0;
+	position: relative;
+	opacity: 1;
+}
+
+.addContact .addContact__form {
+	display: flex;
+}
+
+
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.danger {
+	position: absolute;
+	right: -100vh;
+	transition: .5s all;
+	padding: 10px;
+	color: red;
+	font-size: 17px;
+
+}
+
+.greenBtn {
+	padding: 10px;
+	color: green;
+	font-size: 17px;
+
+}
+
+.ggg {
+	
+	height: 100px;
+	width: 100px;
+
+}*/
